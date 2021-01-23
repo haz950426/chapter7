@@ -1,3 +1,4 @@
+#coding:UTF-8
 import os
 
 #列举当前目录下所有文件
